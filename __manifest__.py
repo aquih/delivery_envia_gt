@@ -2,7 +2,7 @@
 
 {
     'name': 'Envía',
-    'version': '1.1',
+    'version': '2.0',
     'category': 'Inventory/Delivery',
     'description': """ Envios con Envía """,
     'author': 'aquíH',
